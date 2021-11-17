@@ -18,3 +18,6 @@ To execute mutation tests run:
 ```sh
 poetry run mut.py --target weeks.amount_of_weeks --unit-test tests.test_amount_of_weeks --runner pytest --show-mutants --colored-output --report-html report
 ```
+
+### Show report of mutation tests
+Open the file in browser [report/index.html](report/index.html)
