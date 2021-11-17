@@ -1,0 +1,1 @@
+mut.py --target weeks.amount_of_weeks --unit-test tests.test_amount_of_weeks --runner pytest --show-mutants --colored-output --report-html report
